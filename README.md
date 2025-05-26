@@ -1,6 +1,7 @@
 # 智慧單字書 (Smart Vocabulary Book)
 
 一個給我自己用的基於艾賓浩斯遺忘曲線的智能單字學習應用，幫助用戶高效記憶和複習單字。 (還在開發中)
+
 ![image](https://github.com/user-attachments/assets/2a3c7273-f568-4cbb-b5a6-c77cb6f6128e)
 
 
